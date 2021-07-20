@@ -14,7 +14,7 @@ additional API mms-python to interact with the simulator is linked
 to in his repo. This code is built on that API.
 
 The rules for this version of the competition can be found in 
-[Online Mouse Maze Challenge] . The rules are slightly different, so
+[Online Mouse Maze Challenge](<./Online Mouse Maze Challenge PS.pdf>) . The rules are slightly different, so
 the fork by [whitezeta](https://github.com/whitezeta/mms) has to be used.
 
 The algorithms developed by other participants can be found in the
